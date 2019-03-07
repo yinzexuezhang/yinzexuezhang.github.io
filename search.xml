@@ -3,6 +3,27 @@
   
     
     <entry>
+      <title><![CDATA[Day Eight]]></title>
+      <url>/2019/03/07/Day-Eight/</url>
+      <content type="html"><![CDATA[<p>fighter jet 喷气式战斗机<br>skirmish 小冲突，小规模战斗 n.<br>incursion 突袭，袭击 n.<br>hostilities 战争行为 n.<br>partition (国家的)分裂，分治 n.<br>immediate 直接的，立即的 adj.<br>militant 好斗的人；激进的人 n.<br>convoy (尤指护卫)舰队，车队 n.<br>paramilitary force 非官方部队，准军事部队<br>at work 影响，起作用<br>be up for 准备好<br>avenge 报复，复仇 v.<br>stir 激进(尤指激发强烈的感情) v.<br>outrage 愤慨 n.<br>for one’s part 就某物/某人来说<br>backing 支持；资助 n.<br>stand up to 抵抗，反抗<br>bailout (从经济上)帮助(某人或机构)脱离困境 n.<br>miscalculation 错算，误算 n.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 英语 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Day Seven]]></title>
       <url>/2019/03/06/Day-Seven/</url>
       <content type="html"><![CDATA[<p>unveil 公布，将…公诸于众 v.<br>draft 草图，草稿 n.<br>bill 议案，法案；账单 n.<br>heterosexual 异性恋者 n.<br>deadline 最后期限，截止时间 n.<br>legislation 制定法律；立法 n.<br>constitutional 宪法的，和宪法有关的 adj.<br>activist 激进主义分子，积极分子 n.<br>conservative 保守的，守旧的 adj.<br>a heated debate over… 有关…激烈的争论<br>coalition 联盟，同盟，联合体 n.<br>referendum (就重大政治问题或社会问题进行的)全民公决，全民公投 n.<br>discriminatory 歧视性的，区别对待的 adj.<br>controversy 争议，争论 n.<br>homosexual 同性恋的 adj.<br>fall short of… 未达到预期要求</p>
@@ -154,6 +175,18 @@
       <url>/2019/02/27/MVP%E6%A8%A1%E5%BC%8F/</url>
       <content type="html"><![CDATA[<h2 id="什么是MVP？"><a href="#什么是MVP？" class="headerlink" title="什么是MVP？"></a>什么是MVP？</h2><h3 id="全称：Model-View-Presenter"><a href="#全称：Model-View-Presenter" class="headerlink" title="全称：Model-View-Presenter"></a>全称：Model-View-Presenter</h3><h3 id="Model-数据处理部分"><a href="#Model-数据处理部分" class="headerlink" title="Model:数据处理部分"></a>Model:数据处理部分</h3><h3 id="View-界面处理部分"><a href="#View-界面处理部分" class="headerlink" title="View:界面处理部分"></a>View:界面处理部分</h3><h3 id="Presenter-逻辑处理部分"><a href="#Presenter-逻辑处理部分" class="headerlink" title="Presenter:逻辑处理部分"></a>Presenter:逻辑处理部分</h3>]]></content>
       
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Android </tag>
+            
+        </tags>
         
     </entry>
     
@@ -171,6 +204,18 @@
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
       
+        <categories>
+            
+            <category> Hexo </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 说明文档 </tag>
+            
+        </tags>
         
     </entry>
     
