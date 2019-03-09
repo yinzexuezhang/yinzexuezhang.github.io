@@ -3,6 +3,30 @@
   
     
     <entry>
+      <title><![CDATA[Java生态技术体系]]></title>
+      <url>/2019/03/09/Java%E7%94%9F%E6%80%81%E6%8A%80%E6%9C%AF%E4%BD%93%E7%B3%BB/</url>
+      <content type="html"><![CDATA[<h2 id="Java技术体系至少包括以下四部分："><a href="#Java技术体系至少包括以下四部分：" class="headerlink" title="Java技术体系至少包括以下四部分："></a>Java技术体系至少包括以下四部分：</h2><p> 1、Java程序设计语言<br> 2、各种平台上的Java虚拟机(JVM)<br> 3、Java API类库<br> 4、一系列辅助工具，如javac</p>
+<h3 id="JDK"><a href="#JDK" class="headerlink" title="JDK"></a>JDK</h3><p> JDK=1+2+3+4</p>
+<h3 id="JRE"><a href="#JRE" class="headerlink" title="JRE"></a>JRE</h3><p> JRE=2+3</p>
+<h2 id="JVM（Java虚拟机）的基本结构"><a href="#JVM（Java虚拟机）的基本结构" class="headerlink" title="JVM（Java虚拟机）的基本结构"></a>JVM（Java虚拟机）的基本结构</h2><p>类加载子系统 | Java栈<br>方法区 | Java堆 | 直接内存 | 本地方法栈<br>垃圾回收系统 | PC寄存器<br>执行引擎</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Day Ten]]></title>
       <url>/2019/03/09/Day-Ten/</url>
       <content type="html"><![CDATA[<p>mother tongue 母语<br>exemplify 作为…的典范，是…的典型 v.<br>spur 促进 v.<br>switch 突然改变；转换，调换 v.<br>medium (传播或表达的)媒体，方法；教学媒介语言 n.<br>stem 阻止，遏制 v.<br>outflow 外流，流出 n.<br>language of instruction 教学语言<br>custom (经常性的)顾客，客源 n.<br>look at 思考，考虑</p>
