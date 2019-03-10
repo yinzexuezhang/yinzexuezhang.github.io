@@ -3,6 +3,27 @@
   
     
     <entry>
+      <title><![CDATA[Day Eleven]]></title>
+      <url>/2019/03/10/Day-Eleven/</url>
+      <content type="html"><![CDATA[<p>knock out 使失去知觉；使昏昏欲睡<br>anesthesia 麻醉 n.<br>surgical 外科手术的 adj.<br>tangle (线、毛等的)缠结的一团，乱团，乱糟糟的一堆 n.<br>ewe 母羊,雌羊 n.<br>undergo a (surgical) procedure 接受一项手术<br>bypass 转流术，搭桥术 n.<br>pillar 核心，基础，支柱 n.<br>revolution 彻底改变，完全变革 v.<br>a body of 一片的；大量的<br>disturbing 使人焦虑/忧虑/心烦的 adj.<br>dellirium 谵妄，急性脑综合 n.<br>proliferate 迅速繁殖(或增值)，猛增 v.<br>immune suppression 免疫抑制<br>cardiac 心脏的，心脏病的 adj.<br>volatile 易挥发的，易发散的 adj.<br>correspond with sth. 与…一致，与…相关联<br>potentially 潜在地，可能地 adv.<br>abdominal 腹部的，肚子的 adj.<br>intravenous 注入静脉的；静脉内的 adj.<br>inhale 吸入，吸气 v.<br>preclinical 临床前的；潜伏期的 adj.<br>neuroscientist 神经科学家 n.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 英语 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Java生态技术体系]]></title>
       <url>/2019/03/09/Java%E7%94%9F%E6%80%81%E6%8A%80%E6%9C%AF%E4%BD%93%E7%B3%BB/</url>
       <content type="html"><![CDATA[<h2 id="Java技术体系至少包括以下四部分："><a href="#Java技术体系至少包括以下四部分：" class="headerlink" title="Java技术体系至少包括以下四部分："></a>Java技术体系至少包括以下四部分：</h2><p> 1、Java程序设计语言<br> 2、各种平台上的Java虚拟机(JVM)<br> 3、Java API类库<br> 4、一系列辅助工具，如javac</p>
